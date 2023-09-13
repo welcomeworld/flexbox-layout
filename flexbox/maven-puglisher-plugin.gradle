@@ -42,7 +42,7 @@ afterEvaluate {
                     }
                     developers {
                         developer {
-                            name = 'Google'
+                            name = 'welcomeworld'
                         }
                     }
                     scm {
